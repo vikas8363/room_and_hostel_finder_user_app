@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home_home"
+        android:icon="@drawable/home_icon"
+        android:title="Home"
+        android:menuCategory="secondary"/>
+
+    <item
+        android:id="@+id/menu_home_citywise_hostels"
+        android:icon="@drawable/hostel_icon"
+        android:title="Citywise Hostel"
+        android:menuCategory="secondary"/>
+
+    <item
+        android:id="@+id/menu_home_my_hostels"
+        android:icon="@drawable/current_hostel_icon"
+        android:title="My Hostel"
+        android:menuCategory="secondary"/>
+
+    <item
+        android:id="@+id/menu_home_my_profile"
+        android:icon="@drawable/my_profile_icon"
+        android:title="My Profile"
+        android:menuCategory="secondary"/>
+
+</menu>

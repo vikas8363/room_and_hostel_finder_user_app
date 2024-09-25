@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">Room and Hostel Finder App</string>
+    <string name="google_maps_key">AIzaSyDXKrtmMVOvzYhO9YDMYIdILpIThd8WW3w</string>
+
+    <string-array name="country_name">
+        <item>Select Your Country</item>
+        <item>India</item>
+    </string-array>
+
+    <string-array name="state_name">
+        <item>Select Your State</item>
+        <item>Maharashtra</item>
+    </string-array>
+
+    <string-array name="city_name">
+        <item>Select Your City</item>
+        <item>Amravati</item>
+        <item>Nagpur</item>
+        <item>Nashik</item>
+        <item>Nanded</item>
+        <item>jalna</item>
+        <item>sambhajinagar</item>
+        <item>Sindhkhed raja</item>
+        <item>Deulgaon Raja</item>
+        <item>Bhuldhana</item>
+        <item>Ahmedabad</item>
+        <item>mumbai</item>
+        <item>channai</item>
+        <item>Delhi</item>
+        <item>pune</item>
+        <item>gujarat</item>
+        <item>Banglor</item>
+        <item>Murtijapur</item>
+        <item>kolkata</item>
+        <item>jaipur</item>
+        <item>navha</item>
+        <item>Ambad</item>
+    </string-array>
+
+    <string-array name="select_city">
+        <item>Select Your City</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

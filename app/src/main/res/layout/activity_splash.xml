@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:id="@+id/img_splash_logo"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/app_main_logo"
+        android:transitionName="splash_logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_splash_title"
+        android:layout_below="@+id/img_splash_logo"
+        android:text="Room and Hostel Finding App"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        android:fontFamily="@font/bungee"
+        android:layout_marginTop="50dp"
+        android:transitionName="splash_title"/>
+
+</RelativeLayout>

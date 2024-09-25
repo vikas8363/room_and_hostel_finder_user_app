@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home_all_hostels_near_me"
+        android:title="All Hostels Near Me"
+        android:icon="@drawable/hostel_marker"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_home_Logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+
+
+
+</menu>
